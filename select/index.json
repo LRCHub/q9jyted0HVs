@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "MATAFAKA（feat. マービン・ディバイン）",
+  "base_artist": "Unknown Brain",
+  "createdAt": "2026-03-18T13:56:00.772906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Matafaka (feat. Marvin Divine)",
+      "artist": "Unknown Brain",
+      "has_synced": true,
+      "path": "select/01_Matafaka_(feat._Marvin_Divine)_Unknown_Brain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MATAFAKA (feat. Marvin Divine)",
+      "artist": "Unknown Brain",
+      "has_synced": true,
+      "path": "select/02_MATAFAKA_(feat._Marvin_Divine)_Unknown_Brain.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MATAFAKA (feat. Marvin Divine)",
+      "artist": "Unknown Brain",
+      "has_synced": true,
+      "path": "select/03_MATAFAKA_(feat._Marvin_Divine)_Unknown_Brain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MATAFAKA (feat. Marvin Divine)",
+      "artist": "Unknown Brain",
+      "has_synced": true,
+      "path": "select/04_MATAFAKA_(feat._Marvin_Divine)_Unknown_Brain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unknown Brain - MATAFAKA (feat. Marvin Divine) [Lyrics]",
+      "artist": "7clouds Trap",
+      "has_synced": true,
+      "path": "select/05_Unknown_Brain_-_MATAFAKA_(feat._Marvin_Divine)_[Lyrics]_7clouds_Trap.lrc"
+    }
+  ]
+}
